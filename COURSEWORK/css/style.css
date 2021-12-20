@@ -1,0 +1,150 @@
+
+
+
+body{
+  background-color: orange;
+}
+
+.Title{
+  color: white;
+  text-align: center;
+  background-color: black;
+  border-radius: 20px;
+  font-family: fantasy;
+  font-size: 70px;
+}
+
+.HomeLink{
+  color: black;
+  font-family: fantasy;
+  font-size: 50px;
+  text-align: center;
+  width: 20%;
+  position: relative;
+  left: 100px;
+}
+
+.CastMembersLink{
+  color: black;
+  font-family: fantasy;
+  font-size: 50px;
+  text-align: center;
+  width: 20%;
+  position: relative;
+  left: 300px;
+}
+
+.FilmCover{
+  float: right;
+  margin-right: 50px;
+  width: 300px;
+  height: 400px;
+}
+
+.Synopsis{
+  color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+
+}
+
+.Trailer{
+  color: black;
+  font-family: fantasy;
+  font-size: 50px;
+}
+
+.TrailerVideo{
+  text-align: center;
+}
+
+.SecondPageTitle{
+  color: white;
+  text-align: center;
+  background-color: black;
+  border-radius: 20px;
+  font-family: fantasy;
+  font-size: 70px;
+}
+
+.CastHeading{
+  color: black;
+  font-family: Arial;
+  font-size: 30px;
+}
+
+.Alan{
+  float: left;
+  margin-left: auto;
+  width: 250px;
+  height: 350px;
+  margin: 20px;
+
+}
+
+.Phil{
+  float: left;
+  margin-left: auto;
+  width: 250px;
+  height: 350px;
+  margin: 20px;
+
+}
+
+.Stu{
+  float: left;
+  margin-left: auto;
+  width: 250px;
+  height: 350px;
+  margin: 20px;
+
+}
+
+.Doug{
+  float: left;
+  margin-left: auto;
+  width: 250px;
+  height: 350px;
+  margin: 20px;
+
+}
+.AboutActors{
+  color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+
+}
+
+.CharacterNames{
+  color: black;
+  font-family: fantasy;
+  font-size: 50px;
+
+}
+
+.AlanSection{
+  position: relative;
+  float: left;
+}
+
+.PhilSection{
+  position: relative;
+  float: left;
+}
+
+.StuSection{
+  position: relative;
+  float: left;
+}
+
+.DougSection{
+  position: relative;
+  float: left;
+}
+
+
+img{
+  border-radius: 20px;
+  width: 50%;
+  height: 50%;
+}
